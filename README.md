@@ -21,4 +21,4 @@ I focus on creating clean, user-friendly interfaces and bridging the gap between
 ---
 
 ### 📫 Connect with me:
-[LinkedIn]([JOUW_LINKEDIN_URL](https://www.linkedin.com/in/hooman-abbasabadi/)) | 
+[LinkedIn](https://www.linkedin.com/in/hooman-abbasabadi/)
