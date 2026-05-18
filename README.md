@@ -2,7 +2,7 @@
 
 ### 🚀 Junior Front end Developer with UX/UI and ICT experience
 
-I am a Junior Front end Developer with 5+ years of ICT experience and a growing focus on modern web development.  
+Front end Developer with 5+ years of ICT experience and a growing focus on modern web development.  
 I build clean, accessible, responsive, and performance minded interfaces using HTML, CSS, JavaScript, and React.
 
 My background in hardware, networking, design, and visual content creation helps me understand the complete digital picture, from technical structure to user experience.
